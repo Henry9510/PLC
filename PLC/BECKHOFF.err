@@ -1,0 +1,33 @@
+Declarations of the global constants
+Declarations of the global library constants
+Declarations of the global constants
+Declarations of the global library constants
+Interface of POU 'CONCAT'
+Interface of POU 'CTD'
+Interface of POU 'CTU'
+Interface of POU 'CTUD'
+Interface of POU 'DELETE'
+Interface of POU 'F_TRIG'
+Interface of POU 'FIND'
+Interface of POU 'INSERT'
+Interface of POU 'LEFT'
+Interface of POU 'LEN'
+Interface of POU 'MID'
+Interface of POU 'R_TRIG'
+Interface of POU 'REPLACE'
+Interface of POU 'RIGHT'
+Interface of POU 'RS'
+Interface of POU 'SEMA'
+Interface of POU 'SR'
+Interface of POU 'TOF'
+Interface of POU 'TON'
+Interface of POU 'TP'
+Interface of POU 'MAIN'
+Declarations of the global variables
+Data allocation
+Check task configuration
+Implementation of POU 'MAIN'
+Error 4001: MAIN (1): Identifier 'TERMINAL_3_KL1408_4_INPUT' not defined
+Error 4001: MAIN (1): Identifier 'TERMINAL_3_KL1408_7_INPUT' not defined
+Error 4001: MAIN (1): Identifier 'TERMINAL_4_KL1408_1_INPUT' not defined
+Error 4001: MAIN (1): Identifier 'TERMINAL_4_KL1408_2_INPUT' not defined
